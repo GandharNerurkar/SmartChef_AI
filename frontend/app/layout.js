@@ -41,9 +41,9 @@ export default function RootLayout({ children }) {
                   className="w-14"
                 />
               </div>
-              <p className="text-stone-500 text-sm">
-                Made with 💗 by RoadsideCoder
-              </p>
+              {/* <p className="text-stone-500 text-sm">
+                
+              </p> */}
             </div>
           </footer>
         </body>
